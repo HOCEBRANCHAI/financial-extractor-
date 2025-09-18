@@ -1,0 +1,11 @@
+
+langchain
+langchain-openai
+pydantic
+boto3
+python-dotenv
+streamlit
+pandas
+openpyxl
+xlrd
+PyPDF2
